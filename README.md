@@ -14,7 +14,9 @@ Supported remotes:
 img2url is a Python project, use `pip` to install:
 
 ```
+pip install git+https://github.com/crouchred/img2url.git
 pip install img2url
+
 ```
 
 ## Command-Line Interface
