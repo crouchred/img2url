@@ -5,7 +5,7 @@ from __future__ import (
 from builtins import *                  # noqa
 from future.builtins.disabled import *  # noqa
 
-from cStringIO import StringIO
+from io import StringIO
 
 from .base import REQUIRED_FIELD, Configuration, OperationPackage
 
