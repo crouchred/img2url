@@ -72,9 +72,9 @@ Example of `.img2url.yml`:
 ```yaml
 remote: github
 
-githu_token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-githu_user: img2url-testing
-githu_repo: img2url-testing-travisci
+github_token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+github_user: img2url-testing
+github_repo: img2url-testing-travisci
 
 proxies:
   https: socks5://127.0.0.1:1080
